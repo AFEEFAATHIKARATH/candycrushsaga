@@ -3,6 +3,8 @@
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
+    overflow-x: hidden;
+    overflow-y: hidden;
   } 
   
   @keyframes swing-left {
